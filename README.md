@@ -22,7 +22,7 @@ This project demonstrates key frontend development skills, including DOM manipul
 
 1. Clone the repository:
      ```bash
-      git clone https://github.com/your-username/Simple-Quiz.git
+     git clone https://github.com/your-username/Simple-Quiz.git
 
 2. Open the index.html file in a web browser
 
@@ -37,4 +37,4 @@ Try the quiz live here: https://turahrae.github.io/Simple-Quiz/
 This project is open source and free to use for learning purposes.
 
 ## Author
-
+Designed and developed with passion by: Mistura Ishola (Turah Rae) GitHub
