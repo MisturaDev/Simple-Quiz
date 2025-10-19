@@ -1,8 +1,8 @@
 # 🧠 Simple Quiz
 
-**Simple Quiz** is an interactive web-based quiz application built with **HTML**, **CSS**, and **JavaScript**.  
-It allows users to answer multiple-choice questions, get instant feedback, and view their total score at the end of the quiz.  
-This project showcases core frontend development skills, including DOM manipulation, event handling, and responsive design.
+**Simple Quiz** is an interactive web-based quiz application built with **HTML**, **CSS** and **JavaScript**.  
+It allows users to answer multiple-choice questions, get instant feedback and view their total score at the end of the quiz.  
+This project showcases core frontend development skills, including DOM manipulation, event handling and responsive design.
 
 ---
 
