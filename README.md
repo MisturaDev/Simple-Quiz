@@ -28,7 +28,7 @@ This project showcases core frontend development skills, including DOM manipulat
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/TurahRae/Simple-Quiz.git
+   git clone https://github.com/MisturaDev/Simple-Quiz.git
    ```
 
 2. Open the `index.html` file in your web browser.  
