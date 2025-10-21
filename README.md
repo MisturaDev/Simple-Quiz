@@ -38,7 +38,7 @@ This project showcases core frontend development skills, including DOM manipulat
 
 ## 🌐 Live Demo
 
-👉 [Try the Quiz Here](https://turahrae.github.io/Simple-Quiz/)
+👉 [Try the Quiz Here](https://misturadev.github.io/Simple-Quiz/)
 
 ---
 
@@ -50,5 +50,7 @@ This project is open-source and free to use for learning and personal developmen
 
 ## 🧠 Author
 
-Designed and developed with passion by **Mistura Ishola (Turah Rae)**  
-🔗 [GitHub](https://github.com/TurahRae)
+Designed and developed by:
+**Mistura Ishola**  
+🔗 [LinkedIn](https://www.linkedin.com/in/mistura-ishola/)
+
