@@ -48,9 +48,8 @@ This project is open-source and free to use for learning and personal developmen
 
 ---
 
-## 🧠 Author
+## 🧠 Developer
 
-Designed and developed by:
 **Mistura Ishola**  
 🔗 [LinkedIn](https://www.linkedin.com/in/mistura-ishola/)
 
